@@ -297,13 +297,13 @@ display: block;
 
 #bsky {
   display: inline-block;
-  background: url("/img/bsky.svg") no-repeat center center;
-  height: 3vh;
+  background: url("imgs/bsky.svg") no-repeat center center;
+  height: 4vh;
   width: 4vh;
 }
 
 #bsky:hover {
-  background-image: url("/img/bsky-hover.svg");
+  background-image: url("imgs/bsky-hover.svg");
 }
 
 
